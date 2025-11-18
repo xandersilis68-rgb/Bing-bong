@@ -1,0 +1,12 @@
+[
+    { "name": "Aurora", "image": "https://picsum.photos/300?1" },
+    { "name": "Blaze", "image": "https://picsum.photos/300?2" },
+    { "name": "Cinder", "image": "https://picsum.photos/300?3" },
+    { "name": "Delta", "image": "https://picsum.photos/300?4" },
+    { "name": "Echo", "image": "https://picsum.photos/300?5" },
+    { "name": "Frost", "image": "https://picsum.photos/300?6" },
+    { "name": "Gale", "image": "https://picsum.photos/300?7" },
+    { "name": "Hazel", "image": "https://picsum.photos/300?8" },
+    { "name": "Ivy", "image": "https://picsum.photos/300?9" },
+    { "name": "Jinx", "image": "https://picsum.photos/300?10" }
+]
